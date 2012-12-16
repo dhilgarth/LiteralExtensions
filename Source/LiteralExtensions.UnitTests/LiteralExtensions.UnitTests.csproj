@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AutoLiteralExtensionsDataAttribute.cs" />
+    <Compile Include="LiteralExtensionsForTimespanTests.cs" />
     <Compile Include="LiteralExtensionsCustomization.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
