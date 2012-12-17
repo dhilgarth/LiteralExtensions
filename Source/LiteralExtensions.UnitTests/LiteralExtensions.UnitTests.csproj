@@ -53,6 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\SharedAssemblyInfo.cs">
+      <Link>SharedAssemblyInfo.cs</Link>
+    </Compile>
     <Compile Include="AutoLiteralExtensionsDataAttribute.cs" />
     <Compile Include="LiteralExtensionsForTimespanTests.cs" />
     <Compile Include="LiteralExtensionsCustomization.cs" />
